@@ -96,3 +96,6 @@ $NestedESXiHostnameToIPs = @{
     "esx02.$ADdomain" = "$Subnet_ESX.2"
     "esx03.$ADdomain" = "$Subnet_ESX.3"
 }
+
+
+Doet ie het nu?
